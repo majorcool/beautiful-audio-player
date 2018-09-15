@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FEMessage/el-data-table.git"
+    "url": "https://github.com/majorcool/beautiful-audio-player.git"
   },
   "main": "dist/beautiful-audio-player.umd.js",
   "module": "dist/beautiful-audio-player.esm.js",
