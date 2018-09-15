@@ -1,6 +1,6 @@
 {
   "name": "beautiful-audio-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and beautiful audio player vue component based on html5 without any other dependency",
   "keywords": [
     "vue",
