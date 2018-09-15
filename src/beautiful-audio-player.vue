@@ -404,7 +404,7 @@ body {
   margin-top: 0.3rem;
 }
 .loading {
-  background-image: url("../../assets/loading.svg");
+  background-image: url("../assets/loading.svg");
   width: 0.3rem;
   height: 0.6rem;
   margin-left: 0.33rem;
